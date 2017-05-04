@@ -135,3 +135,7 @@ roms
 
 # ignore project files
 .project
+
+# ignore eclipse build files
+Debug
+Release

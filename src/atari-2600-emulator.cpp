@@ -1,7 +1,7 @@
+#include <string>
 #include <iostream>
-using namespace std;
+#include "tinydir/tinydir.h"
 
 int main() {
-	cout << "Hello World!!!" << endl;
-	return 0;
+	
 }
