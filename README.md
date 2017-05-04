@@ -5,5 +5,5 @@ Emulator designed to support the Atari 2600
 g++ -o test atari-2600-emulator.cpp  
 ./test
  
-#Dependencies  
+# Dependencies  
 tinydir: https://github.com/cxong/tinydir
