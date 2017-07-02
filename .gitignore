@@ -155,3 +155,6 @@ CMakeCache.txt
 # Visual Studio database files
 *.db
 *.opendb
+
+# ignore hardware info directory
+2600 hardware info 

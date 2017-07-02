@@ -36,4 +36,5 @@ int main() {
 	//hard-code romName for testing
 	std::string romName = "ADVNTURE.BIN";
 	listFiles("./roms");
+	std::cin.get();
 }
